@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @kirillkulaginqa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# QA-Portfolio
+## Описание проекта
+Это учебный проект, созданный для демонстрации навыков тестировщика. 
 
-<!---
-kirillkulaginqa/kirillkulaginqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Содержание
+- Тест-кейсы для веб-приложения
+- Чек-листы
+- Примеры баг-репортов
+- Автоматизированные тесты (скрипты)
